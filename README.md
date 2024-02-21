@@ -38,7 +38,8 @@ R = { +1,when water is poured,<br>
        0,otherwise}
 
 ### Graphical Representation:
-![rl1](https://github.com/Vineesh-AI-DS/mdp-representation/assets/93427254/8989e1ce-9f86-41a2-a6e3-30b9ba1b644d)
+![rla](https://github.com/Aadheeshwar-AIDS/mdp-representation/assets/93427205/e93d8140-457e-42e4-95bc-b6660d8c4bca)
+
 
 
 ## PYTHON REPRESENTATION:
